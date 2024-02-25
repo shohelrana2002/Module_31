@@ -16,3 +16,4 @@ const product = {
 };
 
 console.log(product.data.id.price);
+console.log(product.data?.id.price);
